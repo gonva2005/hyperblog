@@ -37,3 +37,10 @@ body {
 #post {
     padding: 1em;
 }
+
+p {
+    background: #DDAA1C;
+    color: white;
+    font-weight: bold;
+    padding: 1.5em;
+}
