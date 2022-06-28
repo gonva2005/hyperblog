@@ -8,9 +8,9 @@ body {
 }
 
 #cabecera {
-    background: #28B0DE;
+    background: pink;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    color: white;
+    color: #EE1;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -41,6 +41,7 @@ body {
 p {
     background: #310491;
     color: white;
+    background: #DDAA1C;
     font-weight: bold;
     padding: 1.5em;
 }
